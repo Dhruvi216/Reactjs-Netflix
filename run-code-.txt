@@ -1,0 +1,2 @@
+open vs code then
+npx create-react-app@latest netflix
